@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ігноруємо папку віртуального середовища (вона занадто велика)
+venv/
+
+# Ігноруємо системні файли VS Code
+.vscode/
+
+# Ігноруємо тимчасові файли Python
+__pycache__/
+*.pyc
+
+# Ігноруємо файли налаштувань PyCharm (якщо раптом відкриєш там)
+.idea/
